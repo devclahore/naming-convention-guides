@@ -1,5 +1,6 @@
 # PHP Naming Convention
 List of covered sections:
+* [PHP-FIG (**P**HP **S**tandards **R**ecommendations)](https://www.php-fig.org/psr/)
 * [Class Naming](../php/class-naming.md)
 * [Constant Naming](../php/constant-name.md)
 * [Interface Naming](../php/interface-naming.md)
